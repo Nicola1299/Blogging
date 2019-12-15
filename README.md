@@ -1,5 +1,7 @@
-# Blogging
-
-Hej 
-
-Mit navn er Nicola
+<html>
+  <head>
+    <meta charset="uft-8"
+  </head>
+  <style>
+ 
+</html>
